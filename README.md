@@ -6,4 +6,6 @@ https://nlp100.github.io/ja/
 
 https://upura.hatenablog.com/entry/2020/04/14/024948
 
+https://kakedashi-engineer.appspot.com/nlp100/
+
 ## やっていき
